@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555926188366",
+    "project_id": "tailorfit-9ed20",
+    "storage_bucket": "tailorfit-9ed20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555926188366:android:d42074b3a378684b392e1f",
+        "android_client_info": {
+          "package_name": "com.example.tailorfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSe2fwNDN0u23xym-SkBFvYbeppD6ynjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
